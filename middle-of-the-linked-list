@@ -20,7 +20,6 @@ class Solution:
         else:
             length = (length - 1)/2;
 
-        #result = ListNode()
         i = 0;
         curNode = head;
         while i < length:
